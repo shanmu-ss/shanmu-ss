@@ -1,53 +1,143 @@
-### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi there, I'm Shanmuga Perumal 👋</h1>
+<p align="center">
+  💻 Cloud Enthusiast • 🚀 DevSecOps Explorer • 🧠 AI/ML Learner • 📊 Data Engineering Curious<br> Based in India | 🌍 Open to Full-Time, Part-Time & Remote Roles
+</p>
 
+---
 
-#### I'm a Software Engineer living in Tamil Nadu, India.
+## 👨‍💻 About Me
 
-##### NOW
+- 🔧 I'm a Cloud Engineer with over **3 years of experience** automating infrastructures using **Terraform, Docker, Kubernetes, Openshift, Tekton, Jenkins and CI/CD** pipelines.
+- ☁️ I’ve migrated critical workloads to **Google Cloud Platform**, saving up to **72% in costs** using smart architecture & automation.
+- 🔄 Passionate about **IaC**, **CI/CD**, **Kubernetes**, and exploring **AI/ML integrations**.
+- 🛠️ I love working on **infra-as-code**, **secure cloud design**, and building scalable, fault-tolerant systems.
 
-- 💼 Technical Associate Intern
-- 🌐 Working on DevOps and Automation
-- 💅 Contributing open source project
+---
 
-# Currently Learning🎯
-👉 Devops and Automation
+## ⚙️ Tech Stack & Tools
 
-👉 Cloud Platform - Google Cloud Console , Amazon Web Services and Microsoft Azure 
+### ☁️ Cloud Platforms
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
 
-👉 Internet of Things,
+### 🚀 CI/CD & DevOps
+![Tekton](https://img.shields.io/badge/Tekton-F60000?logo=tekton&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FE5401?logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
+![Cloud Build](https://img.shields.io/badge/Cloud%20Build-4285F4?logo=googlecloud&logoColor=white)
 
-👉 Image Processing
+### 🐳 Containerization & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)
+![Jib](https://img.shields.io/badge/Jib-4285F4?logo=google&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white)
 
-# Certification
+### 🏗️ IaC & Configuration Management
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?logo=amazonaws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 
-<a href=" https://www.credly.com/badges/fa601f2b-eff2-4237-8b3b-565fae441bc4/public_url" target="blank"><img align="center"
-src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"
-alt="Microsoft Azure Fundamental" height="65" width="85" /> [Microsoft Azure Fundamental]( https://www.credly.com/badges/fa601f2b-eff2-4237-8b3b-565fae441bc4/public_url)
+### 🏢 Artifact & Repository Management
+![Nexus](https://img.shields.io/badge/Nexus-143055?logo=sonatype&logoColor=white)
+![JFrog Artifactory](https://img.shields.io/badge/Artifactory-41BF47?logo=jfrog&logoColor=white)
 
-# Skills🥇
+### 💻 Programming & Scripting
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-## Languages
-> Python, Bash, SQL, Arduino, HTML, C/C++, Javascript
+<!-- ### 🔌 Networking & Protocols
+![HTTP](https://img.shields.io/badge/HTTP/S-005C84?logo=internetexplorer&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-004F9F?logo=cisco&logoColor=white)
+![FTP](https://img.shields.io/badge/FTP-0061A8?logo=filezilla&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-222222?logo=gnubash&logoColor=white)
+![SFTP](https://img.shields.io/badge/SFTP-008080?logo=cyberduck&logoColor=white)
+![UDP](https://img.shields.io/badge/UDP-5C2D91?logo=wireshark&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP-D44638?logo=gmail&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-FF6F00?logo=cloudflare&logoColor=white) -->
 
-## OS
-> Linux, Windows
+### 🔍 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=white)
+![Cloud Monitoring](https://img.shields.io/badge/Cloud%20Monitoring-34A853?logo=googlecloud&logoColor=white)
+![Cloud Logging](https://img.shields.io/badge/Cloud%20Logging-4285F4?logo=googlecloud&logoColor=white)
 
-# Looking to Collaborate on 👯
-I’m looking to collaborate on Almost anything related to DevOps and Automation. Always looking for great opportunities and Ideas.  
+### 🔧 VCS & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
 
+---
 
+<!-- ## 📈 GitHub Stats
 
-# BIO
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShanmugaPerumalB&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanmugaPerumalB&theme=react&hide_border=true" />
+</p> -->
 
-- 🏢 I'm currently Software Engieer working at **Tech Mahindra**
-- ⚙️ I'm daily working on: `.DevOps`, `.python`, `.MySql`, `.Networking`, `.IoT`, `.VPS`
-- 🌍 I'm mostly active within the **INSTAGRAM**
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **Cloud**, **Development**, **FiveM**, **Networking**, **IT Support**, **Automation**
-- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/bs5/)
+---
 
-## CONTACT ME
+## 🔍 Currently Exploring
 
-<a href="mailto:shanmugasp.023@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="shanmugasp.023@gmail.com" height="65" width="85" /> [Email](mailto:shanmugasp.023@gmail.com)
-  
-  [![Spotify](https://shanmu-github-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/7e7nyhl8s3yp0h148tlkldeg2)
+- 🤖 LLMs and AI-powered infrastructure workflows  
+- 📊 Building end-to-end data pipelines using Python and GCP tools  
+- 🛡️ Cloud-native security with OPA, Sentinel, and DevSecOps practices  
+- ⚙️ Event-driven architecture using GCP Workflows and Cloud Run  
+
+---
+## 🏅 Certifications
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<a href="https://www.credential.net/eedd6fdb-cf73-420f-b9e8-7c41a5905314#gs.w9yxpp" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20DevOps%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP DevOps Engineer" />
+</a>
+
+<a href="https://www.credential.net/959b13ba-238e-413c-90e7-cf489845f5f8?key=5b0d0791ab64fde45d8c216a172b50c85b89c9ead77a45af5a06b3b863b1af46" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Associate%20Cloud%20Engineer-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP ACE" />
+</a>
+
+<a href="https://www.credly.com/badges/fafe8c3a-c27d-46fd-aae2-9bf6d20f862e/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Dev Associate" />
+</a>
+
+<a href="https://www.credly.com/badges/fa601f2b-eff2-4237-8b3b-565fae441bc4?source=linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+</a>
+
+<a href="https://www.credly.com/badges/f0a4dbe4-7c7f-44d2-adba-11bff6e2a908/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Security%20Engineer-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Security" />
+</a>
+
+<a href="https://www.credly.com/badges/87ab01d8-3d36-4d02-8ebb-1d6d65bfb792" target="_blank">
+  <img src="https://img.shields.io/badge/Terraform%20Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate" />
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/verify/LGVZANER283V" target="_blank">
+  <img src="https://img.shields.io/badge/Digital%20Marketing%20-%20Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" />
+</a>
+
+<a href="https://trainings.internshala.com/view_certificate/FA9FB026-C1CA-00C8-905E-3DE6E79EE38C/40AB9499-1AA3-9258-37D9-C425036E0583/" target="_blank">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking%20Training-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ethical Hacking" />
+</a>
+
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bs5/)  
+- 💬 Ask me about **Cloud Adaption and Modernization**,**CICD**, **Migration** **Terraform**, **Cloud Security**, or **Learning Paths in AI/ML**  
+
+---
+
+<p align="center">✨ Thanks for stopping by! Keep coding, keep learning, and stay curious! ✨</p>
