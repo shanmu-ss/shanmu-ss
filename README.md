@@ -1,53 +1,58 @@
-### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi there, I'm Shanmuga Perumal 👋</h1>
+<p align="center">
+  💻 Cloud Enthusiast • 🚀 DevSecOps Explorer • 🧠 AI/ML Learner • 📊 Data Engineering Curious<br>
+  🇫🇷 Based in France | 🎓 Master's Student | 🌍 Open to Part-Time & Remote Roles in the EU
+</p>
 
+---
 
-#### I'm a Software Engineer living in Tamil Nadu, India.
+## 👨‍💻 About Me
 
-##### NOW
+- 🔧 I'm a Cloud Engineer with over **2 years of experience** automating infrastructures using **Terraform, Docker, Kubernetes, and CI/CD** pipelines.
+- ☁️ I’ve migrated critical workloads to **Google Cloud Platform**, saving up to **72% in costs** using smart architecture & automation.
+- 🛡️ Currently diving deep into **DevSecOps**, **AI/ML**, and **Data Engineering** — because why choose one when you can learn all three?
+- 🌐 I’m pursuing my Master’s in France and actively seeking **part-time/remote opportunities within the Schengen region**.
+- 🛠️ I love working on **infra-as-code**, **secure cloud design**, and building scalable, fault-tolerant systems.
 
-- 💼 Technical Associate Intern
-- 🌐 Working on DevOps and Automation
-- 💅 Contributing open source project
+---
 
-# Currently Learning🎯
-👉 Devops and Automation
+## 🚀 Tech Stack & Tools
 
-👉 Cloud Platform - Google Cloud Console , Amazon Web Services and Microsoft Azure 
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-👉 Internet of Things,
+---
 
-👉 Image Processing
+## 📈 GitHub Stats
 
-# Certification
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShanmugaPerumalB&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShanmugaPerumalB&theme=react&hide_border=true" />
+</p>
 
-<a href=" https://www.credly.com/badges/fa601f2b-eff2-4237-8b3b-565fae441bc4/public_url" target="blank"><img align="center"
-src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"
-alt="Microsoft Azure Fundamental" height="65" width="85" /> [Microsoft Azure Fundamental]( https://www.credly.com/badges/fa601f2b-eff2-4237-8b3b-565fae441bc4/public_url)
+---
 
-# Skills🥇
+## 🔍 Currently Exploring
 
-## Languages
-> Python, Bash, SQL, Arduino, HTML, C/C++, Javascript
+- 🤖 LLMs and AI-powered infrastructure workflows  
+- 📊 Building end-to-end data pipelines using Python and GCP tools  
+- 🛡️ Cloud-native security with OPA, Sentinel, and DevSecOps practices  
+- ⚙️ Event-driven architecture using GCP Workflows and Cloud Run  
 
-## OS
-> Linux, Windows
+---
 
-# Looking to Collaborate on 👯
-I’m looking to collaborate on Almost anything related to DevOps and Automation. Always looking for great opportunities and Ideas.  
+## 📫 Let’s Connect
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/shanmugaperumalb/)  
+- 💬 Ask me about **GCP**, **Terraform**, **Cloud Security**, or **Learning Paths in AI/ML**  
+- 🧩 Fun Fact: I automate things not just to save time — but to *spend it better*. 😄
 
+---
 
-# BIO
-
-- 🏢 I'm currently Software Engieer working at **Tech Mahindra**
-- ⚙️ I'm daily working on: `.DevOps`, `.python`, `.MySql`, `.Networking`, `.IoT`, `.VPS`
-- 🌍 I'm mostly active within the **INSTAGRAM**
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **Cloud**, **Development**, **FiveM**, **Networking**, **IT Support**, **Automation**
-- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/bs5/)
-
-## CONTACT ME
-
-<a href="mailto:shanmugasp.023@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="shanmugasp.023@gmail.com" height="65" width="85" /> [Email](mailto:shanmugasp.023@gmail.com)
-  
-  [![Spotify](https://shanmu-github-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/7e7nyhl8s3yp0h148tlkldeg2)
+<p align="center">✨ Thanks for stopping by! Keep coding, keep learning, and stay curious! ✨</p>
