@@ -93,6 +93,45 @@
 - ⚙️ Event-driven architecture using GCP Workflows and Cloud Run  
 
 ---
+## 🏅 Certifications
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<a href="https://www.credential.net/eedd6fdb-cf73-420f-b9e8-7c41a5905314#gs.w9yxpp" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20DevOps%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP DevOps Engineer" />
+</a>
+
+<a href="https://www.credential.net/959b13ba-238e-413c-90e7-cf489845f5f8?key=5b0d0791ab64fde45d8c216a172b50c85b89c9ead77a45af5a06b3b863b1af46" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Associate%20Cloud%20Engineer-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP ACE" />
+</a>
+
+<a href="https://www.credly.com/badges/fafe8c3a-c27d-46fd-aae2-9bf6d20f862e/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Dev Associate" />
+</a>
+
+<a href="https://www.credly.com/badges/fa601f2b-eff2-4237-8b3b-565fae441bc4?source=linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+</a>
+
+<a href="https://www.credly.com/badges/f0a4dbe4-7c7f-44d2-adba-11bff6e2a908/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Security%20Engineer-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Security" />
+</a>
+
+<a href="https://www.credly.com/badges/87ab01d8-3d36-4d02-8ebb-1d6d65bfb792" target="_blank">
+  <img src="https://img.shields.io/badge/Terraform%20Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate" />
+</a>
+
+<a href="https://www.coursera.org/account/accomplishments/verify/LGVZANER283V" target="_blank">
+  <img src="https://img.shields.io/badge/Digital%20Marketing%20-%20Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" />
+</a>
+
+<a href="https://trainings.internshala.com/view_certificate/FA9FB026-C1CA-00C8-905E-3DE6E79EE38C/40AB9499-1AA3-9258-37D9-C425036E0583/" target="_blank">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking%20Training-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ethical Hacking" />
+</a>
+
+</p>
+
+---
 
 ## 📫 Let’s Connect
 
